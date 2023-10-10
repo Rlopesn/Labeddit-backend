@@ -31,6 +31,7 @@ export class UserController {
                 res.status(error.statusCode).send(error.message)
             } else {
                 res.status(500).send("Unexpected error.")
+                console.log(error)
             }
         }
     }
@@ -47,6 +48,7 @@ export class UserController {
                 res.status(error.statusCode).send(error.message)
             } else {
                 res.status(500).send("Unexpected error.")
+                console.log(error)
             }
         }
     }
@@ -67,6 +69,7 @@ export class UserController {
                 res.status(error.statusCode).send(error.message)
             } else {
                 res.status(500).send("Unexpected error.")
+                console.log(error)
             }
         }
     }
