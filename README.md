@@ -6,12 +6,12 @@
 
 # Índice
 * [Deploy](#Deploy)
-* [Requisições (Paths)](#requisições)
-* [Exemplo de Requisições](#exemplo-de-requisições)
-* [Tetes](#exemplo-testes)
-* [Documentação Postman](#documentação-postman)
-* [Tecnologias](#tecnoligias)
-* [Acesso ao Projeto](#acesso-ao-projeto)
+* [Requisições (Paths)](#Requisições)
+* [Exemplo de requisições](#Exemplo-de-requisições)
+* [Testes](#Testes)
+* [Documentação postman](#Documentação-postman)
+* [Tecnologias](#Tecnoligias)
+* [Acesso ao projeto](#Acesso-ao-projeto)
 * [Pessoa desenvolvedora](#Pessoa-desenvolvedora)
 
 # Link deploy:
