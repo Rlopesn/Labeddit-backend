@@ -27,7 +27,7 @@ export class CommentController {
             res.sendStatus(201)
 
         } catch (error) {
-            console.log(error);
+            
             
             if (error instanceof ZodError) {
                 res.status(400).send(error.issues)
@@ -120,7 +120,7 @@ export class CommentController {
 
             res.sendStatus(200)
         } catch (error) {
-            console.log(error);
+            
 
             if (error instanceof ZodError) {
                 res.status(400).send(error.issues)
